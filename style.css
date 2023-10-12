@@ -23,6 +23,7 @@ html{
 .main-title{
     font-family: 'Times New Roman', Times, serif;
     font-size: 50px;
+    color: rgb(238,238,238);
 }
 .main-paragraph{
     letter-spacing: 3px;
